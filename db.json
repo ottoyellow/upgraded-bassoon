@@ -1,0 +1,31 @@
+{
+  "debts": [
+      {
+    id: 1,
+    category: 'Rent',
+    title: 'Rent Payment',
+    description: 'monthly rent',
+    frequency: 'monthly',
+    dayOfTheMonth: 1,
+    date: null,
+  },
+  {
+    id: 2,
+    category: 'Credit Card',
+    title: 'Discover',
+    description: 'Discover card',
+    frequency: 'monthly',
+    dayOfTheMonth: 20,
+    date: null,
+  },
+  {
+    id: 3,
+    category: 'subscription',
+    title: 'Amazon',
+    description: 'Amazon Prime Membership',
+    frequency: 'yearly',
+    dayOfTheMonth: null,
+    date: '09/10/2023'
+  }
+]
+}
