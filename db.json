@@ -26,6 +26,15 @@
       "frequency": "yearly",
       "dayOfTheMonth": null,
       "date": "09/10/2023"
+    },
+        {
+        "id": 4,
+        "category": "subscription",
+      "title": "Instacart",
+      "description": "Insta cart delivery",
+      "frequency": "yearly",
+      "dayOfTheMonth": null,
+      "date": "09/10/2023"
     }
   ]
   }
