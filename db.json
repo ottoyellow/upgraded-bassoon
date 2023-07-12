@@ -2,9 +2,9 @@
     "debts": [
         {
       "id": 1,
-      "category": "Rent",
-      "title": "Rent Payment",
-      "description": "monthly rent",
+      "category": "Housing",
+      "title": "Rent",
+      "description": "monthly rent payment",
       "frequency": "monthly",
       "dayOfTheMonth": 1,
       "date": null
@@ -14,7 +14,7 @@
         "category": "Credit Card",
       "title": "Discover",
       "description": "Discover card",
-      "frequency": "Thatmonthly",
+      "frequency": "monthly",
       "dayOfTheMonth": 20,
       "date": null
     },
